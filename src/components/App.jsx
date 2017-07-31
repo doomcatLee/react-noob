@@ -1,11 +1,12 @@
 import React from 'react';
 import Header from './Header'
+import Header from './TicketList'
 
 function App(props){
   return(
     <div>
       <Header/>
-      <h1>Help Queue</h1>
+      <TicketList/>
     </div>
   )
 }
