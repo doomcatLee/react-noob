@@ -1,6 +1,6 @@
 import React from 'react';
 import Header from './Header'
-import Header from './TicketList'
+import TicketList from './TicketList'
 
 function App(props){
   return(
